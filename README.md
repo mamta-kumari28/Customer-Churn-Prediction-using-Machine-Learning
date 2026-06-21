@@ -4,9 +4,9 @@
 
 ## Overview
 
-This project analyzes and predicts **customer churn** using a real-world Telco dataset. We explore key factors influencing churn, build predictive models, and create an interactive **Streamlit web app** for churn risk scoring.
+This project analyzes and predicts customer churn using a real-world Telco dataset. We explore key factors influencing churn, perform data cleaning, exploratory data analysis (EDA), feature engineering, and build machine learning models to identify customers who are likely to leave the company.
 
-**Business Goal**: Identify customers likely to leave and suggest actionable strategies to improve retention.
+**Business Goal**: Identify customers at high risk of churn and provide actionable insights to improve customer retention.
 
 ---
 
