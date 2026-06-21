@@ -46,13 +46,6 @@ This project analyzes and predicts **customer churn** using a real-world Telco d
 
 ## Folder Structure
 ```
-.
-├── customer_churn.ipynb # Notebook with EDA and modeling
-├── app/
-│ ├── streamlit_app.py # Streamlit web app
-│ └── model/
-│   ├── churn_model.json # Saved XGBoost model
-│   └── feature_names.json # Model feature names
 ├── data/
 │ └── WA_Fn-UseC_-Telco-Customer-Churn.csv
 ├── requirements.txt
