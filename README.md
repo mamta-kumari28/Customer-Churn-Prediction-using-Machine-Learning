@@ -29,7 +29,7 @@ This project analyzes and predicts **customer churn** using a real-world Telco d
 ## Tech Stack
 
 - **Python (pandas, scikit-learn, XGBoost, matplotlib, seaborn)**
-- **Streamlit** for web app
+- **Machine Learning Algorithms(Linear Regression,Ridge Regression,Lasso Regression,Decision Tree Regressor,Random Forest Regressor)**
 - **Jupyter Notebook** for EDA and modeling
 - **Git & GitHub Codespaces** for development
 
